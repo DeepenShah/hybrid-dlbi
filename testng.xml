@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?><suite name="IDIOM-RegressionSuite">
+  <test name="Pathing8057_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8057"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8059_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8059"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9046_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9046"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8933_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8933"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9047_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9047"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9049_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9049"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9058_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9058"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9048_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9048"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing9040_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing9040"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8103_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8103"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8105_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8105"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8112_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8112"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8113_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8113"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8151_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8151"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8152_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8152"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8153_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8153"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Pathing8239_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Pathing.scripts.Pathing8239"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9042_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9042"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9044_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9044"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9054_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9054"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9053_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9053"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9055_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9055"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9056_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9056"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet8979_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet8979"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet8980_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet8980"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9057_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9057"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9103_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9103"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet7987_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet7987"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="Webnet9216_firefox">
+    <classes>
+      <class name="com.IDIOM.Analyse.Webnet.scripts.Webnet9216"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8796_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8796"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8797_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8797"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8799_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8799"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8800_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8800"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8808_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8808"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8810_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8810"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8812_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8812"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8813_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8813"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8814_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8814"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8817_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8817"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8819_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8819"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8820_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8820"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8825_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8825"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8830_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8830"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8831_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8831"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8832_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8832"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8834_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8834"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8835_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8835"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8837_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8837"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8840_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8840"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8843_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8843"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8845_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8845"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8846_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8846"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8848_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8848"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8849_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8849"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8852_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8852"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8853_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8853"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8854_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8854"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8855_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8855"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8856_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8856"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8857_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8857"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8858_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8858"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8859_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8859"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8860_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8860"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8861_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8861"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8862_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8862"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8863_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8863"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8864_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8864"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8865_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8865"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8896_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8896"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8901_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8901"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8926_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8926"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8930_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8930"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8934_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8934"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8935_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8935"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8948_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8948"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8951_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8951"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8952_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8952"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8958_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8958"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8959_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8959"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8960_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8960"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8961_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8961"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8962_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8962"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8963_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8963"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8964_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8964"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8966_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8966"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8967_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8967"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8969_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8969"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8970_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8970"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8972_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8972"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8973_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8973"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8975_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8975"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8976_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8976"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ClientHomePage8977_firefox">
+    <classes>
+      <class name="com.IDIOM.ClientHomePage.ClientHomePage8977"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8823_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8823"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8824_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8824"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8826_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8826"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8829_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8829"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8833_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8833"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8838_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8838"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8892_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8892"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8897_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8897"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8915_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8915"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8954_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8954"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard8965_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard8965"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard9187_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard9187"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ProjectDashBoard9189_firefox">
+    <classes>
+      <class name="com.IDIOM.ProjectDashBoard.ProjectDashBoard9189"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8806_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8806"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8815_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8815"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8818_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8818"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8821_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8821"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8822_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8822"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8827_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8827"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8828_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8828"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8839_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8839"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8841_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8841"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8847_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8847"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8851_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8851"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8907_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8907"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="GlobalHeader8913_firefox">
+    <classes>
+      <class name="com.IDIOM.GlobalHeader.GlobalHeader8913"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience8155_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience8155"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience8156_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience8156"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience8158_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience8158"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience8163_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience8163"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience9001_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience9001"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience9002_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience9002"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience9003_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience9003"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience9004_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience9004"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="ShowAudience9005_firefox">
+    <classes>
+      <class name="com.IDIOM.ShowAudience.ShowAudience9005"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7739_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7739"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7745_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7745"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7747_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7747"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7748_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7748"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7752_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7752"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7753_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7753"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7757_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7757"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage7758_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage7758"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8144_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8144"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8195_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8195"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8198_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8198"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8203_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8203"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8241_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8241"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8493_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8493"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8495_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8495"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8497_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8497"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8498_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8498"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8722_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8722"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="LoginPage8895_firefox">
+    <classes>
+      <class name="com.IDIOM.Login.scripts.LoginPage8895"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="EndtoEndScenario8997_firefox">
+    <classes>
+      <class name="com.IDIOM.EndToEndScenario.EndtoEndScenario8997"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="EndtoEndScenario8998_firefox">
+    <classes>
+      <class name="com.IDIOM.EndToEndScenario.EndtoEndScenario8998"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="EndtoEndScenario8999_firefox">
+    <classes>
+      <class name="com.IDIOM.EndToEndScenario.EndtoEndScenario8999"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <test name="HelpAndFAQs8937_firefox">
+    <classes>
+      <class name="com.IDIOM.HelpAndFAQs.HelpAndFAQs8937"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="Test Data/Idiom-TestData.properties"/>
+  </test>
+  <listeners>
+    <listener class-name="com.testng.listeners.TestExecutionListener"/>
+    <listener class-name="com.testng.listeners.TestInvokeListener"/>
+  </listeners>
+</suite>

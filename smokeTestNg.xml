@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IDIOM Smoke Suite" parallel="none">
+ 
+ <test name="AudienceBuilder_chrome">  
+    <classes>
+      <class name="com.IDIOM.integration.AudienceBuilder"/>     
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+  
+  <test name="ClientHomePageAudience_firefox">
+    <classes>
+      <class name="com.IDIOM.integration.ClientHomePageAudience"/>
+    </classes>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>    
+  </test>
+ 
+ <test name="ClientHomePageProject_chrome">
+    <classes>
+      <class name="com.IDIOM.integration.ClientHomePageProject"/>
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+  
+  <test name="CreateNewUser_chrome">
+    <classes>
+      <class name="com.IDIOM.integration.CreateNewUser"/>
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+  
+  <test name="User_MyAccount_chrome">
+    <classes>
+      <class name="com.IDIOM.integration.User_MyAccount"/>
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+  
+  <test name="VerifyMediaRanker_chrome">
+    <classes>
+      <class name="com.IDIOM.integration.VerifyMediaRanker"/>
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+  
+  <test name="analysePagesVerification_chrome">
+    <classes>
+      <class name="com.IDIOM.integration.VerifyAnalysePages"/>
+    </classes>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="platform" value="Windows"/>
+    <parameter name="properties" value="src\objectrepository\IDIOM.properties"/>
+  </test>
+ 
+  <listeners>
+    <listener class-name="com.testng.listeners.TestExecutionListener"/>
+    <listener class-name="com.testng.listeners.TestInvokeListener"/>
+  </listeners>
+</suite>

@@ -1,0 +1,6 @@
+bin/
+Reports/
+test-output/
+Screenshots/
+/target/
+generateTestngXml.xml
